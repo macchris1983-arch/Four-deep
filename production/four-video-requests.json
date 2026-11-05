@@ -7,25 +7,24 @@
     "caption": "Download upgraded everything except the bank account. Who lives with somebody like this?",
     "hashtags": "#FourDeep #BayAreaComedy #AdultAnimation #RoommateComedy #OaklandComedy",
     "model": "video/minimax-h3-max-turbo",
-    "duration": 60,
+    "duration": 45,
     "resolution": "480P",
     "aspect_ratio": "9:16",
-    "estimated_credits": 300,
-    "status": "Expanded to 60 seconds; not rendered. Supersedes previous 10-second approval request. Batch estimate 1200 generation credits versus checked balance 1098; editing/assembly excluded.",
+    "estimated_credits": 225,
+    "status": "45-second revision prepared; not rendered. Supersedes 10- and 60-second requests. Batch generation estimate 900 credits; editing/assembly excluded.",
     "assembly": {
-      "target_duration_seconds": 60,
+      "target_duration_seconds": 45,
       "order": [
         1,
         2,
-        3,
-        4
+        3
       ],
       "keep_native_dialogue": true,
       "trim_each_segment_seconds": 15
     },
     "shots": [
       {
-        "id": "01_Smart_House_shot_1",
+        "id": "01_Smart_House_45s_shot_1",
         "duration": 15,
         "model": "video/minimax-h3-max-turbo",
         "resolution": "480P",
@@ -56,10 +55,10 @@
             "end_seconds": 13.2
           }
         ],
-        "prompt": "FOUR-DEEP original 2D adult sitcom. Animate the supplied exact first frame as ONE continuous 15-second vertical group shot. Preserve all four older Black men's exact faces, age, skin tones, gray hair, facial hair, body builds, hats, glasses and wardrobe. Player cream Panama green band, thin mustache, burgundy blazer cream shirt; Doc stocky backwards navy cap gray goatee cream-sleeved navy varsity jacket; Finesse black feathered fedora gray chin goatee pinstripe suit burgundy shirt gold rings; Download gray short curls rectangular glasses blue hoodie black tee smartphone. Bold black ink outlines, rich 2D cel shading, warm natural light. Keep all four faces visible. Genuine mouth animation, blinks, brows, small head turns and gestures, not a still zoom. Fixed camera, stable anatomy. Mature English voices: Player smooth mellow baritone, Doc gravelly bass with blunt Bay Area delivery, Finesse sly persuasive midrange, Download precise tenor. Only the active speaker moves his mouth. Exact uncensored quoted dialogue, no bleep, no overlapping speech, no narrator, captions, text, watermark or music.  Living room. Download lower right, Player lower left, Doc upper left, Finesse upper right. Episode 1, segment 1 of 4. Begin from supplied cast frame; preserve exact character placement and wardrobes. 0.5–4.5s Download says exactly \"I made the whole house smart.\". 4.8–8.9s Doc says exactly \"Nigga, make that bitch pay rent.\". 9.2–13.2s Player says exactly \"Start with the refrigerator. That fool eats all day.\". Use natural comic pauses, expressive brows, small gestures and silent reactions from listeners. Hold a reaction beat to second 15. Native synchronized English dialogue and location ambience only. No music. End on an ensemble reaction suitable for a hard cut. Do not introduce extra people or on-screen text."
+        "prompt": "FOUR-DEEP original 2D adult sitcom. Animate the supplied exact first frame as ONE continuous 15-second vertical group shot. Preserve all four older Black men's exact faces, age, skin tones, gray hair, facial hair, body builds, hats, glasses and wardrobe. Player cream Panama green band, thin mustache, burgundy blazer cream shirt; Doc stocky backwards navy cap gray goatee cream-sleeved navy varsity jacket; Finesse black feathered fedora gray chin goatee pinstripe suit burgundy shirt gold rings; Download gray short curls rectangular glasses blue hoodie black tee smartphone. Bold black ink outlines, rich 2D cel shading, warm natural light. Keep all four faces visible. Genuine mouth animation, blinks, brows, small head turns and gestures, not a still zoom. Fixed camera, stable anatomy. Mature English voices: Player smooth mellow baritone, Doc gravelly bass with blunt Bay Area delivery, Finesse sly persuasive midrange, Download precise tenor. Only the active speaker moves his mouth. Exact uncensored quoted dialogue, no bleep, no overlapping speech, no narrator, captions, text, watermark or music.  Living room. Download lower right, Player lower left, Doc upper left, Finesse upper right. Episode 1, segment 1 of 3. Begin from supplied cast frame; preserve exact character placement and wardrobes. 0.5–4.5s Download says exactly \"I made the whole house smart.\". 4.8–8.9s Doc says exactly \"Nigga, make that bitch pay rent.\". 9.2–13.2s Player says exactly \"Start with the refrigerator. That fool eats all day.\". Use natural comic pauses, expressive brows, small gestures and silent reactions from listeners. Hold a reaction beat to second 15. Native synchronized English dialogue and location ambience only. No music. End on an ensemble reaction suitable for a hard cut. Do not introduce extra people or on-screen text."
       },
       {
-        "id": "01_Smart_House_shot_2",
+        "id": "01_Smart_House_45s_shot_2",
         "duration": 15,
         "model": "video/minimax-h3-max-turbo",
         "resolution": "480P",
@@ -90,50 +89,10 @@
             "end_seconds": 13.2
           }
         ],
-        "prompt": "FOUR-DEEP original 2D adult sitcom. Animate the supplied exact first frame as ONE continuous 15-second vertical group shot. Preserve all four older Black men's exact faces, age, skin tones, gray hair, facial hair, body builds, hats, glasses and wardrobe. Player cream Panama green band, thin mustache, burgundy blazer cream shirt; Doc stocky backwards navy cap gray goatee cream-sleeved navy varsity jacket; Finesse black feathered fedora gray chin goatee pinstripe suit burgundy shirt gold rings; Download gray short curls rectangular glasses blue hoodie black tee smartphone. Bold black ink outlines, rich 2D cel shading, warm natural light. Keep all four faces visible. Genuine mouth animation, blinks, brows, small head turns and gestures, not a still zoom. Fixed camera, stable anatomy. Mature English voices: Player smooth mellow baritone, Doc gravelly bass with blunt Bay Area delivery, Finesse sly persuasive midrange, Download precise tenor. Only the active speaker moves his mouth. Exact uncensored quoted dialogue, no bleep, no overlapping speech, no narrator, captions, text, watermark or music.  Living room. Download lower right, Player lower left, Doc upper left, Finesse upper right. Episode 1, segment 2 of 4. Begin from supplied cast frame; preserve exact character placement and wardrobes. 0.5–4.5s Download says exactly \"It responds to voice commands. Watch. Lights, romantic mode.\". 4.8–8.9s Player says exactly \"Finally, something in this house understands me.\". 9.2–13.2s Doc says exactly \"Blood, why the kitchen turning red?\". Use natural comic pauses, expressive brows, small gestures and silent reactions from listeners. Hold a reaction beat to second 15. Native synchronized English dialogue and location ambience only. No music. End on an ensemble reaction suitable for a hard cut. Do not introduce extra people or on-screen text."
+        "prompt": "FOUR-DEEP original 2D adult sitcom. Animate the supplied exact first frame as ONE continuous 15-second vertical group shot. Preserve all four older Black men's exact faces, age, skin tones, gray hair, facial hair, body builds, hats, glasses and wardrobe. Player cream Panama green band, thin mustache, burgundy blazer cream shirt; Doc stocky backwards navy cap gray goatee cream-sleeved navy varsity jacket; Finesse black feathered fedora gray chin goatee pinstripe suit burgundy shirt gold rings; Download gray short curls rectangular glasses blue hoodie black tee smartphone. Bold black ink outlines, rich 2D cel shading, warm natural light. Keep all four faces visible. Genuine mouth animation, blinks, brows, small head turns and gestures, not a still zoom. Fixed camera, stable anatomy. Mature English voices: Player smooth mellow baritone, Doc gravelly bass with blunt Bay Area delivery, Finesse sly persuasive midrange, Download precise tenor. Only the active speaker moves his mouth. Exact uncensored quoted dialogue, no bleep, no overlapping speech, no narrator, captions, text, watermark or music.  Living room. Download lower right, Player lower left, Doc upper left, Finesse upper right. Episode 1, segment 2 of 3. Begin from supplied cast frame; preserve exact character placement and wardrobes. 0.5–4.5s Download says exactly \"It responds to voice commands. Watch. Lights, romantic mode.\". 4.8–8.9s Player says exactly \"Finally, something in this house understands me.\". 9.2–13.2s Doc says exactly \"Blood, why the kitchen turning red?\". Use natural comic pauses, expressive brows, small gestures and silent reactions from listeners. Hold a reaction beat to second 15. Native synchronized English dialogue and location ambience only. No music. End on an ensemble reaction suitable for a hard cut. Do not introduce extra people or on-screen text."
       },
       {
-        "id": "01_Smart_House_shot_3",
-        "duration": 15,
-        "model": "video/minimax-h3-max-turbo",
-        "resolution": "480P",
-        "aspect_ratio": "9:16",
-        "image_url": "https://cdn.creativeclaw.co/u/595a4a51/images/e03ee26c-ae1b-4bca-a457-ba4b46d40efa.png",
-        "extras": {
-          "exact_duration": true
-        },
-        "estimated_credits": 75,
-        "status": "Prepared; not submitted",
-        "dialogue": [
-          {
-            "speaker": "Finesse",
-            "text": "I connected it to my business account.",
-            "start_seconds": 0.5,
-            "end_seconds": 3.5
-          },
-          {
-            "speaker": "Download",
-            "text": "You don't have a business account.",
-            "start_seconds": 3.8,
-            "end_seconds": 6.7
-          },
-          {
-            "speaker": "Finesse",
-            "text": "Exactly. No overhead.",
-            "start_seconds": 7,
-            "end_seconds": 9.9
-          },
-          {
-            "speaker": "Doc",
-            "text": "That explains why the ceiling fan asking for tips.",
-            "start_seconds": 10.3,
-            "end_seconds": 13.2
-          }
-        ],
-        "prompt": "FOUR-DEEP original 2D adult sitcom. Animate the supplied exact first frame as ONE continuous 15-second vertical group shot. Preserve all four older Black men's exact faces, age, skin tones, gray hair, facial hair, body builds, hats, glasses and wardrobe. Player cream Panama green band, thin mustache, burgundy blazer cream shirt; Doc stocky backwards navy cap gray goatee cream-sleeved navy varsity jacket; Finesse black feathered fedora gray chin goatee pinstripe suit burgundy shirt gold rings; Download gray short curls rectangular glasses blue hoodie black tee smartphone. Bold black ink outlines, rich 2D cel shading, warm natural light. Keep all four faces visible. Genuine mouth animation, blinks, brows, small head turns and gestures, not a still zoom. Fixed camera, stable anatomy. Mature English voices: Player smooth mellow baritone, Doc gravelly bass with blunt Bay Area delivery, Finesse sly persuasive midrange, Download precise tenor. Only the active speaker moves his mouth. Exact uncensored quoted dialogue, no bleep, no overlapping speech, no narrator, captions, text, watermark or music.  Living room. Download lower right, Player lower left, Doc upper left, Finesse upper right. Episode 1, segment 3 of 4. Begin from supplied cast frame; preserve exact character placement and wardrobes. 0.5–3.5s Finesse says exactly \"I connected it to my business account.\". 3.8–6.7s Download says exactly \"You don't have a business account.\". 7–9.9s Finesse says exactly \"Exactly. No overhead.\". 10.3–13.2s Doc says exactly \"That explains why the ceiling fan asking for tips.\". Use natural comic pauses, expressive brows, small gestures and silent reactions from listeners. Hold a reaction beat to second 15. Native synchronized English dialogue and location ambience only. No music. End on an ensemble reaction suitable for a hard cut. Do not introduce extra people or on-screen text."
-      },
-      {
-        "id": "01_Smart_House_shot_4",
+        "id": "01_Smart_House_45s_shot_3",
         "duration": 15,
         "model": "video/minimax-h3-max-turbo",
         "resolution": "480P",
@@ -170,7 +129,7 @@
             "end_seconds": 13.2
           }
         ],
-        "prompt": "FOUR-DEEP original 2D adult sitcom. Animate the supplied exact first frame as ONE continuous 15-second vertical group shot. Preserve all four older Black men's exact faces, age, skin tones, gray hair, facial hair, body builds, hats, glasses and wardrobe. Player cream Panama green band, thin mustache, burgundy blazer cream shirt; Doc stocky backwards navy cap gray goatee cream-sleeved navy varsity jacket; Finesse black feathered fedora gray chin goatee pinstripe suit burgundy shirt gold rings; Download gray short curls rectangular glasses blue hoodie black tee smartphone. Bold black ink outlines, rich 2D cel shading, warm natural light. Keep all four faces visible. Genuine mouth animation, blinks, brows, small head turns and gestures, not a still zoom. Fixed camera, stable anatomy. Mature English voices: Player smooth mellow baritone, Doc gravelly bass with blunt Bay Area delivery, Finesse sly persuasive midrange, Download precise tenor. Only the active speaker moves his mouth. Exact uncensored quoted dialogue, no bleep, no overlapping speech, no narrator, captions, text, watermark or music.  Living room. Download lower right, Player lower left, Doc upper left, Finesse upper right. Episode 1, segment 4 of 4. Begin from supplied cast frame; preserve exact character placement and wardrobes. 0.5–3.5s Download says exactly \"The house says one resident has to leave.\". 3.8–6.7s Player says exactly \"Tell it we're family.\". 7–9.9s Finesse says exactly \"Tell it I already moved.\". 10.3–13.2s Doc says exactly \"Unplug that bitch before it raises the rent.\". Use natural comic pauses, expressive brows, small gestures and silent reactions from listeners. Hold a reaction beat to second 15. Native synchronized English dialogue and location ambience only. No music. End on an ensemble reaction suitable for a hard cut. Do not introduce extra people or on-screen text."
+        "prompt": "FOUR-DEEP original 2D adult sitcom. Animate the supplied exact first frame as ONE continuous 15-second vertical group shot. Preserve all four older Black men's exact faces, age, skin tones, gray hair, facial hair, body builds, hats, glasses and wardrobe. Player cream Panama green band, thin mustache, burgundy blazer cream shirt; Doc stocky backwards navy cap gray goatee cream-sleeved navy varsity jacket; Finesse black feathered fedora gray chin goatee pinstripe suit burgundy shirt gold rings; Download gray short curls rectangular glasses blue hoodie black tee smartphone. Bold black ink outlines, rich 2D cel shading, warm natural light. Keep all four faces visible. Genuine mouth animation, blinks, brows, small head turns and gestures, not a still zoom. Fixed camera, stable anatomy. Mature English voices: Player smooth mellow baritone, Doc gravelly bass with blunt Bay Area delivery, Finesse sly persuasive midrange, Download precise tenor. Only the active speaker moves his mouth. Exact uncensored quoted dialogue, no bleep, no overlapping speech, no narrator, captions, text, watermark or music.  Living room. Download lower right, Player lower left, Doc upper left, Finesse upper right. Episode 1, segment 3 of 3. Begin from supplied cast frame; preserve exact character placement and wardrobes. 0.5–3.5s Download says exactly \"The house says one resident has to leave.\". 3.8–6.7s Player says exactly \"Tell it we're family.\". 7–9.9s Finesse says exactly \"Tell it I already moved.\". 10.3–13.2s Doc says exactly \"Unplug that bitch before it raises the rent.\". Use natural comic pauses, expressive brows, small gestures and silent reactions from listeners. Hold a reaction beat to second 15. Native synchronized English dialogue and location ambience only. No music. End on an ensemble reaction suitable for a hard cut. Do not introduce extra people or on-screen text."
       }
     ]
   },
@@ -182,25 +141,24 @@
     "caption": "Finesse has tracking numbers for everything except the rent. What's the wildest excuse you've heard?",
     "hashtags": "#FourDeep #BayAreaComedy #RentIsDue #RoommateComedy #AnimatedComedy",
     "model": "video/minimax-h3-max-turbo",
-    "duration": 60,
+    "duration": 45,
     "resolution": "480P",
     "aspect_ratio": "9:16",
-    "estimated_credits": 300,
-    "status": "Expanded to 60 seconds; not rendered. Supersedes previous 10-second approval request. Batch estimate 1200 generation credits versus checked balance 1098; editing/assembly excluded.",
+    "estimated_credits": 225,
+    "status": "45-second revision prepared; not rendered. Supersedes 10- and 60-second requests. Batch generation estimate 900 credits; editing/assembly excluded.",
     "assembly": {
-      "target_duration_seconds": 60,
+      "target_duration_seconds": 45,
       "order": [
         1,
         2,
-        3,
-        4
+        3
       ],
       "keep_native_dialogue": true,
       "trim_each_segment_seconds": 15
     },
     "shots": [
       {
-        "id": "02_Rent_in_Transit_shot_1",
+        "id": "02_Rent_in_Transit_45s_shot_1",
         "duration": 15,
         "model": "video/minimax-h3-max-turbo",
         "resolution": "480P",
@@ -231,10 +189,10 @@
             "end_seconds": 13.2
           }
         ],
-        "prompt": "FOUR-DEEP original 2D adult sitcom. Animate the supplied exact first frame as ONE continuous 15-second vertical group shot. Preserve all four older Black men's exact faces, age, skin tones, gray hair, facial hair, body builds, hats, glasses and wardrobe. Player cream Panama green band, thin mustache, burgundy blazer cream shirt; Doc stocky backwards navy cap gray goatee cream-sleeved navy varsity jacket; Finesse black feathered fedora gray chin goatee pinstripe suit burgundy shirt gold rings; Download gray short curls rectangular glasses blue hoodie black tee smartphone. Bold black ink outlines, rich 2D cel shading, warm natural light. Keep all four faces visible. Genuine mouth animation, blinks, brows, small head turns and gestures, not a still zoom. Fixed camera, stable anatomy. Mature English voices: Player smooth mellow baritone, Doc gravelly bass with blunt Bay Area delivery, Finesse sly persuasive midrange, Download precise tenor. Only the active speaker moves his mouth. Exact uncensored quoted dialogue, no bleep, no overlapping speech, no narrator, captions, text, watermark or music.  Oakland porch. Finesse foreground right, Doc foreground left, Player upper left, Download upper right. Episode 2, segment 1 of 4. Begin from supplied cast frame; preserve exact character placement and wardrobes. 0.5–4.5s Finesse says exactly \"I told him the money's in transit.\". 4.8–8.9s Doc says exactly \"Blood, that bitch-ass nigga lives upstairs.\". 9.2–13.2s Player says exactly \"That's a short commute for a long-ass excuse.\". Use natural comic pauses, expressive brows, small gestures and silent reactions from listeners. Hold a reaction beat to second 15. Native synchronized English dialogue and location ambience only. No music. End on an ensemble reaction suitable for a hard cut. Do not introduce extra people or on-screen text."
+        "prompt": "FOUR-DEEP original 2D adult sitcom. Animate the supplied exact first frame as ONE continuous 15-second vertical group shot. Preserve all four older Black men's exact faces, age, skin tones, gray hair, facial hair, body builds, hats, glasses and wardrobe. Player cream Panama green band, thin mustache, burgundy blazer cream shirt; Doc stocky backwards navy cap gray goatee cream-sleeved navy varsity jacket; Finesse black feathered fedora gray chin goatee pinstripe suit burgundy shirt gold rings; Download gray short curls rectangular glasses blue hoodie black tee smartphone. Bold black ink outlines, rich 2D cel shading, warm natural light. Keep all four faces visible. Genuine mouth animation, blinks, brows, small head turns and gestures, not a still zoom. Fixed camera, stable anatomy. Mature English voices: Player smooth mellow baritone, Doc gravelly bass with blunt Bay Area delivery, Finesse sly persuasive midrange, Download precise tenor. Only the active speaker moves his mouth. Exact uncensored quoted dialogue, no bleep, no overlapping speech, no narrator, captions, text, watermark or music.  Oakland porch. Finesse foreground right, Doc foreground left, Player upper left, Download upper right. Episode 2, segment 1 of 3. Begin from supplied cast frame; preserve exact character placement and wardrobes. 0.5–4.5s Finesse says exactly \"I told him the money's in transit.\". 4.8–8.9s Doc says exactly \"Blood, that bitch-ass nigga lives upstairs.\". 9.2–13.2s Player says exactly \"That's a short commute for a long-ass excuse.\". Use natural comic pauses, expressive brows, small gestures and silent reactions from listeners. Hold a reaction beat to second 15. Native synchronized English dialogue and location ambience only. No music. End on an ensemble reaction suitable for a hard cut. Do not introduce extra people or on-screen text."
       },
       {
-        "id": "02_Rent_in_Transit_shot_2",
+        "id": "02_Rent_in_Transit_45s_shot_2",
         "duration": 15,
         "model": "video/minimax-h3-max-turbo",
         "resolution": "480P",
@@ -277,50 +235,10 @@
             "end_seconds": 13.2
           }
         ],
-        "prompt": "FOUR-DEEP original 2D adult sitcom. Animate the supplied exact first frame as ONE continuous 15-second vertical group shot. Preserve all four older Black men's exact faces, age, skin tones, gray hair, facial hair, body builds, hats, glasses and wardrobe. Player cream Panama green band, thin mustache, burgundy blazer cream shirt; Doc stocky backwards navy cap gray goatee cream-sleeved navy varsity jacket; Finesse black feathered fedora gray chin goatee pinstripe suit burgundy shirt gold rings; Download gray short curls rectangular glasses blue hoodie black tee smartphone. Bold black ink outlines, rich 2D cel shading, warm natural light. Keep all four faces visible. Genuine mouth animation, blinks, brows, small head turns and gestures, not a still zoom. Fixed camera, stable anatomy. Mature English voices: Player smooth mellow baritone, Doc gravelly bass with blunt Bay Area delivery, Finesse sly persuasive midrange, Download precise tenor. Only the active speaker moves his mouth. Exact uncensored quoted dialogue, no bleep, no overlapping speech, no narrator, captions, text, watermark or music.  Oakland porch. Finesse foreground right, Doc foreground left, Player upper left, Download upper right. Episode 2, segment 2 of 4. Begin from supplied cast frame; preserve exact character placement and wardrobes. 0.5–2.8s Download says exactly \"Your transfer screenshot says pending since Tuesday.\". 3.1–5.4s Finesse says exactly \"Banks move slow.\". 5.7–8s Doc says exactly \"It's Sunday.\". 8.3–10.6s Finesse says exactly \"See? They don't even work today.\". 10.9–13.2s Player says exactly \"Neither does that explanation.\". Use natural comic pauses, expressive brows, small gestures and silent reactions from listeners. Hold a reaction beat to second 15. Native synchronized English dialogue and location ambience only. No music. End on an ensemble reaction suitable for a hard cut. Do not introduce extra people or on-screen text."
+        "prompt": "FOUR-DEEP original 2D adult sitcom. Animate the supplied exact first frame as ONE continuous 15-second vertical group shot. Preserve all four older Black men's exact faces, age, skin tones, gray hair, facial hair, body builds, hats, glasses and wardrobe. Player cream Panama green band, thin mustache, burgundy blazer cream shirt; Doc stocky backwards navy cap gray goatee cream-sleeved navy varsity jacket; Finesse black feathered fedora gray chin goatee pinstripe suit burgundy shirt gold rings; Download gray short curls rectangular glasses blue hoodie black tee smartphone. Bold black ink outlines, rich 2D cel shading, warm natural light. Keep all four faces visible. Genuine mouth animation, blinks, brows, small head turns and gestures, not a still zoom. Fixed camera, stable anatomy. Mature English voices: Player smooth mellow baritone, Doc gravelly bass with blunt Bay Area delivery, Finesse sly persuasive midrange, Download precise tenor. Only the active speaker moves his mouth. Exact uncensored quoted dialogue, no bleep, no overlapping speech, no narrator, captions, text, watermark or music.  Oakland porch. Finesse foreground right, Doc foreground left, Player upper left, Download upper right. Episode 2, segment 2 of 3. Begin from supplied cast frame; preserve exact character placement and wardrobes. 0.5–2.8s Download says exactly \"Your transfer screenshot says pending since Tuesday.\". 3.1–5.4s Finesse says exactly \"Banks move slow.\". 5.7–8s Doc says exactly \"It's Sunday.\". 8.3–10.6s Finesse says exactly \"See? They don't even work today.\". 10.9–13.2s Player says exactly \"Neither does that explanation.\". Use natural comic pauses, expressive brows, small gestures and silent reactions from listeners. Hold a reaction beat to second 15. Native synchronized English dialogue and location ambience only. No music. End on an ensemble reaction suitable for a hard cut. Do not introduce extra people or on-screen text."
       },
       {
-        "id": "02_Rent_in_Transit_shot_3",
-        "duration": 15,
-        "model": "video/minimax-h3-max-turbo",
-        "resolution": "480P",
-        "aspect_ratio": "9:16",
-        "image_url": "https://cdn.creativeclaw.co/u/595a4a51/images/85f6231a-0d6b-426b-92e8-ac2c5d523894.png",
-        "extras": {
-          "exact_duration": true
-        },
-        "estimated_credits": 75,
-        "status": "Prepared; not submitted",
-        "dialogue": [
-          {
-            "speaker": "Doc",
-            "text": "On the set, call the landlord right now.",
-            "start_seconds": 0.5,
-            "end_seconds": 3.5
-          },
-          {
-            "speaker": "Finesse",
-            "text": "Can't. My phone on airplane mode.",
-            "start_seconds": 3.8,
-            "end_seconds": 6.7
-          },
-          {
-            "speaker": "Download",
-            "text": "Then how are you watching basketball?",
-            "start_seconds": 7,
-            "end_seconds": 9.9
-          },
-          {
-            "speaker": "Finesse",
-            "text": "In-flight entertainment.",
-            "start_seconds": 10.3,
-            "end_seconds": 13.2
-          }
-        ],
-        "prompt": "FOUR-DEEP original 2D adult sitcom. Animate the supplied exact first frame as ONE continuous 15-second vertical group shot. Preserve all four older Black men's exact faces, age, skin tones, gray hair, facial hair, body builds, hats, glasses and wardrobe. Player cream Panama green band, thin mustache, burgundy blazer cream shirt; Doc stocky backwards navy cap gray goatee cream-sleeved navy varsity jacket; Finesse black feathered fedora gray chin goatee pinstripe suit burgundy shirt gold rings; Download gray short curls rectangular glasses blue hoodie black tee smartphone. Bold black ink outlines, rich 2D cel shading, warm natural light. Keep all four faces visible. Genuine mouth animation, blinks, brows, small head turns and gestures, not a still zoom. Fixed camera, stable anatomy. Mature English voices: Player smooth mellow baritone, Doc gravelly bass with blunt Bay Area delivery, Finesse sly persuasive midrange, Download precise tenor. Only the active speaker moves his mouth. Exact uncensored quoted dialogue, no bleep, no overlapping speech, no narrator, captions, text, watermark or music.  Oakland porch. Finesse foreground right, Doc foreground left, Player upper left, Download upper right. Episode 2, segment 3 of 4. Begin from supplied cast frame; preserve exact character placement and wardrobes. 0.5–3.5s Doc says exactly \"On the set, call the landlord right now.\". 3.8–6.7s Finesse says exactly \"Can't. My phone on airplane mode.\". 7–9.9s Download says exactly \"Then how are you watching basketball?\". 10.3–13.2s Finesse says exactly \"In-flight entertainment.\". Use natural comic pauses, expressive brows, small gestures and silent reactions from listeners. Hold a reaction beat to second 15. Native synchronized English dialogue and location ambience only. No music. End on an ensemble reaction suitable for a hard cut. Do not introduce extra people or on-screen text."
-      },
-      {
-        "id": "02_Rent_in_Transit_shot_4",
+        "id": "02_Rent_in_Transit_45s_shot_3",
         "duration": 15,
         "model": "video/minimax-h3-max-turbo",
         "resolution": "480P",
@@ -363,7 +281,7 @@
             "end_seconds": 13.2
           }
         ],
-        "prompt": "FOUR-DEEP original 2D adult sitcom. Animate the supplied exact first frame as ONE continuous 15-second vertical group shot. Preserve all four older Black men's exact faces, age, skin tones, gray hair, facial hair, body builds, hats, glasses and wardrobe. Player cream Panama green band, thin mustache, burgundy blazer cream shirt; Doc stocky backwards navy cap gray goatee cream-sleeved navy varsity jacket; Finesse black feathered fedora gray chin goatee pinstripe suit burgundy shirt gold rings; Download gray short curls rectangular glasses blue hoodie black tee smartphone. Bold black ink outlines, rich 2D cel shading, warm natural light. Keep all four faces visible. Genuine mouth animation, blinks, brows, small head turns and gestures, not a still zoom. Fixed camera, stable anatomy. Mature English voices: Player smooth mellow baritone, Doc gravelly bass with blunt Bay Area delivery, Finesse sly persuasive midrange, Download precise tenor. Only the active speaker moves his mouth. Exact uncensored quoted dialogue, no bleep, no overlapping speech, no narrator, captions, text, watermark or music.  Oakland porch. Finesse foreground right, Doc foreground left, Player upper left, Download upper right. Episode 2, segment 4 of 4. Begin from supplied cast frame; preserve exact character placement and wardrobes. 0.5–2.8s Player says exactly \"Landlord's coming down the stairs.\". 3.1–5.4s Finesse says exactly \"Everybody act like we moved.\". 5.7–8s Doc says exactly \"We're standing on his porch.\". 8.3–10.6s Finesse says exactly \"Exactly. We outside.\". 10.9–13.2s Download says exactly \"Your rent has better travel plans than you.\". Use natural comic pauses, expressive brows, small gestures and silent reactions from listeners. Hold a reaction beat to second 15. Native synchronized English dialogue and location ambience only. No music. End on an ensemble reaction suitable for a hard cut. Do not introduce extra people or on-screen text."
+        "prompt": "FOUR-DEEP original 2D adult sitcom. Animate the supplied exact first frame as ONE continuous 15-second vertical group shot. Preserve all four older Black men's exact faces, age, skin tones, gray hair, facial hair, body builds, hats, glasses and wardrobe. Player cream Panama green band, thin mustache, burgundy blazer cream shirt; Doc stocky backwards navy cap gray goatee cream-sleeved navy varsity jacket; Finesse black feathered fedora gray chin goatee pinstripe suit burgundy shirt gold rings; Download gray short curls rectangular glasses blue hoodie black tee smartphone. Bold black ink outlines, rich 2D cel shading, warm natural light. Keep all four faces visible. Genuine mouth animation, blinks, brows, small head turns and gestures, not a still zoom. Fixed camera, stable anatomy. Mature English voices: Player smooth mellow baritone, Doc gravelly bass with blunt Bay Area delivery, Finesse sly persuasive midrange, Download precise tenor. Only the active speaker moves his mouth. Exact uncensored quoted dialogue, no bleep, no overlapping speech, no narrator, captions, text, watermark or music.  Oakland porch. Finesse foreground right, Doc foreground left, Player upper left, Download upper right. Episode 2, segment 3 of 3. Begin from supplied cast frame; preserve exact character placement and wardrobes. 0.5–2.8s Player says exactly \"Landlord's coming down the stairs.\". 3.1–5.4s Finesse says exactly \"Everybody act like we moved.\". 5.7–8s Doc says exactly \"We're standing on his porch.\". 8.3–10.6s Finesse says exactly \"Exactly. We outside.\". 10.9–13.2s Download says exactly \"Your rent has better travel plans than you.\". Use natural comic pauses, expressive brows, small gestures and silent reactions from listeners. Hold a reaction beat to second 15. Native synchronized English dialogue and location ambience only. No music. End on an ensemble reaction suitable for a hard cut. Do not introduce extra people or on-screen text."
       }
     ]
   },
@@ -375,25 +293,24 @@
     "caption": "Download called it a Ponzi scheme. Finesse heard a business title. Which roommate are you?",
     "hashtags": "#FourDeep #BayAreaComedy #AdultAnimation #HustleHumor #AnimatedComedy",
     "model": "video/minimax-h3-max-turbo",
-    "duration": 60,
+    "duration": 45,
     "resolution": "480P",
     "aspect_ratio": "9:16",
-    "estimated_credits": 300,
-    "status": "Expanded to 60 seconds; not rendered. Supersedes previous 10-second approval request. Batch estimate 1200 generation credits versus checked balance 1098; editing/assembly excluded.",
+    "estimated_credits": 225,
+    "status": "45-second revision prepared; not rendered. Supersedes 10- and 60-second requests. Batch generation estimate 900 credits; editing/assembly excluded.",
     "assembly": {
-      "target_duration_seconds": 60,
+      "target_duration_seconds": 45,
       "order": [
         1,
         2,
-        3,
-        4
+        3
       ],
       "keep_native_dialogue": true,
       "trim_each_segment_seconds": 15
     },
     "shots": [
       {
-        "id": "03_Professional_Hustler_shot_1",
+        "id": "03_Professional_Hustler_45s_shot_1",
         "duration": 15,
         "model": "video/minimax-h3-max-turbo",
         "resolution": "480P",
@@ -424,10 +341,10 @@
             "end_seconds": 13.2
           }
         ],
-        "prompt": "FOUR-DEEP original 2D adult sitcom. Animate the supplied exact first frame as ONE continuous 15-second vertical group shot. Preserve all four older Black men's exact faces, age, skin tones, gray hair, facial hair, body builds, hats, glasses and wardrobe. Player cream Panama green band, thin mustache, burgundy blazer cream shirt; Doc stocky backwards navy cap gray goatee cream-sleeved navy varsity jacket; Finesse black feathered fedora gray chin goatee pinstripe suit burgundy shirt gold rings; Download gray short curls rectangular glasses blue hoodie black tee smartphone. Bold black ink outlines, rich 2D cel shading, warm natural light. Keep all four faces visible. Genuine mouth animation, blinks, brows, small head turns and gestures, not a still zoom. Fixed camera, stable anatomy. Mature English voices: Player smooth mellow baritone, Doc gravelly bass with blunt Bay Area delivery, Finesse sly persuasive midrange, Download precise tenor. Only the active speaker moves his mouth. Exact uncensored quoted dialogue, no bleep, no overlapping speech, no narrator, captions, text, watermark or music.  Oakland corner store. Finesse foreground left, Download foreground right, Player upper left, Doc upper right. Episode 3, segment 1 of 4. Begin from supplied cast frame; preserve exact character placement and wardrobes. 0.5–4.5s Finesse says exactly \"Put fifty on it. I'll double your bread.\". 4.8–8.9s Download says exactly \"Technically, that's a Ponzi scheme.\". 9.2–13.2s Finesse says exactly \"See? My shit got a professional name.\". Use natural comic pauses, expressive brows, small gestures and silent reactions from listeners. Hold a reaction beat to second 15. Native synchronized English dialogue and location ambience only. No music. End on an ensemble reaction suitable for a hard cut. Do not introduce extra people or on-screen text."
+        "prompt": "FOUR-DEEP original 2D adult sitcom. Animate the supplied exact first frame as ONE continuous 15-second vertical group shot. Preserve all four older Black men's exact faces, age, skin tones, gray hair, facial hair, body builds, hats, glasses and wardrobe. Player cream Panama green band, thin mustache, burgundy blazer cream shirt; Doc stocky backwards navy cap gray goatee cream-sleeved navy varsity jacket; Finesse black feathered fedora gray chin goatee pinstripe suit burgundy shirt gold rings; Download gray short curls rectangular glasses blue hoodie black tee smartphone. Bold black ink outlines, rich 2D cel shading, warm natural light. Keep all four faces visible. Genuine mouth animation, blinks, brows, small head turns and gestures, not a still zoom. Fixed camera, stable anatomy. Mature English voices: Player smooth mellow baritone, Doc gravelly bass with blunt Bay Area delivery, Finesse sly persuasive midrange, Download precise tenor. Only the active speaker moves his mouth. Exact uncensored quoted dialogue, no bleep, no overlapping speech, no narrator, captions, text, watermark or music.  Oakland corner store. Finesse foreground left, Download foreground right, Player upper left, Doc upper right. Episode 3, segment 1 of 3. Begin from supplied cast frame; preserve exact character placement and wardrobes. 0.5–4.5s Finesse says exactly \"Put fifty on it. I'll double your bread.\". 4.8–8.9s Download says exactly \"Technically, that's a Ponzi scheme.\". 9.2–13.2s Finesse says exactly \"See? My shit got a professional name.\". Use natural comic pauses, expressive brows, small gestures and silent reactions from listeners. Hold a reaction beat to second 15. Native synchronized English dialogue and location ambience only. No music. End on an ensemble reaction suitable for a hard cut. Do not introduce extra people or on-screen text."
       },
       {
-        "id": "03_Professional_Hustler_shot_2",
+        "id": "03_Professional_Hustler_45s_shot_2",
         "duration": 15,
         "model": "video/minimax-h3-max-turbo",
         "resolution": "480P",
@@ -470,56 +387,10 @@
             "end_seconds": 13.2
           }
         ],
-        "prompt": "FOUR-DEEP original 2D adult sitcom. Animate the supplied exact first frame as ONE continuous 15-second vertical group shot. Preserve all four older Black men's exact faces, age, skin tones, gray hair, facial hair, body builds, hats, glasses and wardrobe. Player cream Panama green band, thin mustache, burgundy blazer cream shirt; Doc stocky backwards navy cap gray goatee cream-sleeved navy varsity jacket; Finesse black feathered fedora gray chin goatee pinstripe suit burgundy shirt gold rings; Download gray short curls rectangular glasses blue hoodie black tee smartphone. Bold black ink outlines, rich 2D cel shading, warm natural light. Keep all four faces visible. Genuine mouth animation, blinks, brows, small head turns and gestures, not a still zoom. Fixed camera, stable anatomy. Mature English voices: Player smooth mellow baritone, Doc gravelly bass with blunt Bay Area delivery, Finesse sly persuasive midrange, Download precise tenor. Only the active speaker moves his mouth. Exact uncensored quoted dialogue, no bleep, no overlapping speech, no narrator, captions, text, watermark or music.  Oakland corner store. Finesse foreground left, Download foreground right, Player upper left, Doc upper right. Episode 3, segment 2 of 4. Begin from supplied cast frame; preserve exact character placement and wardrobes. 0.5–2.8s Doc says exactly \"What exactly does the company sell?\". 3.1–5.4s Finesse says exactly \"Confidence.\". 5.7–8s Player says exactly \"Then why you borrowing fifty dollars?\". 8.3–10.6s Finesse says exactly \"Market research.\". 10.9–13.2s Download says exactly \"Your entire business plan is a shrug.\". Use natural comic pauses, expressive brows, small gestures and silent reactions from listeners. Hold a reaction beat to second 15. Native synchronized English dialogue and location ambience only. No music. End on an ensemble reaction suitable for a hard cut. Do not introduce extra people or on-screen text."
+        "prompt": "FOUR-DEEP original 2D adult sitcom. Animate the supplied exact first frame as ONE continuous 15-second vertical group shot. Preserve all four older Black men's exact faces, age, skin tones, gray hair, facial hair, body builds, hats, glasses and wardrobe. Player cream Panama green band, thin mustache, burgundy blazer cream shirt; Doc stocky backwards navy cap gray goatee cream-sleeved navy varsity jacket; Finesse black feathered fedora gray chin goatee pinstripe suit burgundy shirt gold rings; Download gray short curls rectangular glasses blue hoodie black tee smartphone. Bold black ink outlines, rich 2D cel shading, warm natural light. Keep all four faces visible. Genuine mouth animation, blinks, brows, small head turns and gestures, not a still zoom. Fixed camera, stable anatomy. Mature English voices: Player smooth mellow baritone, Doc gravelly bass with blunt Bay Area delivery, Finesse sly persuasive midrange, Download precise tenor. Only the active speaker moves his mouth. Exact uncensored quoted dialogue, no bleep, no overlapping speech, no narrator, captions, text, watermark or music.  Oakland corner store. Finesse foreground left, Download foreground right, Player upper left, Doc upper right. Episode 3, segment 2 of 3. Begin from supplied cast frame; preserve exact character placement and wardrobes. 0.5–2.8s Doc says exactly \"What exactly does the company sell?\". 3.1–5.4s Finesse says exactly \"Confidence.\". 5.7–8s Player says exactly \"Then why you borrowing fifty dollars?\". 8.3–10.6s Finesse says exactly \"Market research.\". 10.9–13.2s Download says exactly \"Your entire business plan is a shrug.\". Use natural comic pauses, expressive brows, small gestures and silent reactions from listeners. Hold a reaction beat to second 15. Native synchronized English dialogue and location ambience only. No music. End on an ensemble reaction suitable for a hard cut. Do not introduce extra people or on-screen text."
       },
       {
-        "id": "03_Professional_Hustler_shot_3",
-        "duration": 15,
-        "model": "video/minimax-h3-max-turbo",
-        "resolution": "480P",
-        "aspect_ratio": "9:16",
-        "image_url": "https://cdn.creativeclaw.co/u/595a4a51/images/101bca15-6c08-411a-9b8b-e3f8e7a2a7c8.png",
-        "extras": {
-          "exact_duration": true
-        },
-        "estimated_credits": 75,
-        "status": "Prepared; not submitted",
-        "dialogue": [
-          {
-            "speaker": "Finesse",
-            "text": "First investors get priority.",
-            "start_seconds": 0.5,
-            "end_seconds": 2.8
-          },
-          {
-            "speaker": "Download",
-            "text": "Priority for what?",
-            "start_seconds": 3.1,
-            "end_seconds": 5.4
-          },
-          {
-            "speaker": "Finesse",
-            "text": "Getting their money back.",
-            "start_seconds": 5.7,
-            "end_seconds": 8
-          },
-          {
-            "speaker": "Doc",
-            "text": "Blood, that's called a refund.",
-            "start_seconds": 8.3,
-            "end_seconds": 10.6
-          },
-          {
-            "speaker": "Player",
-            "text": "And we ain't even bought nothing yet.",
-            "start_seconds": 10.9,
-            "end_seconds": 13.2
-          }
-        ],
-        "prompt": "FOUR-DEEP original 2D adult sitcom. Animate the supplied exact first frame as ONE continuous 15-second vertical group shot. Preserve all four older Black men's exact faces, age, skin tones, gray hair, facial hair, body builds, hats, glasses and wardrobe. Player cream Panama green band, thin mustache, burgundy blazer cream shirt; Doc stocky backwards navy cap gray goatee cream-sleeved navy varsity jacket; Finesse black feathered fedora gray chin goatee pinstripe suit burgundy shirt gold rings; Download gray short curls rectangular glasses blue hoodie black tee smartphone. Bold black ink outlines, rich 2D cel shading, warm natural light. Keep all four faces visible. Genuine mouth animation, blinks, brows, small head turns and gestures, not a still zoom. Fixed camera, stable anatomy. Mature English voices: Player smooth mellow baritone, Doc gravelly bass with blunt Bay Area delivery, Finesse sly persuasive midrange, Download precise tenor. Only the active speaker moves his mouth. Exact uncensored quoted dialogue, no bleep, no overlapping speech, no narrator, captions, text, watermark or music.  Oakland corner store. Finesse foreground left, Download foreground right, Player upper left, Doc upper right. Episode 3, segment 3 of 4. Begin from supplied cast frame; preserve exact character placement and wardrobes. 0.5–2.8s Finesse says exactly \"First investors get priority.\". 3.1–5.4s Download says exactly \"Priority for what?\". 5.7–8s Finesse says exactly \"Getting their money back.\". 8.3–10.6s Doc says exactly \"Blood, that's called a refund.\". 10.9–13.2s Player says exactly \"And we ain't even bought nothing yet.\". Use natural comic pauses, expressive brows, small gestures and silent reactions from listeners. Hold a reaction beat to second 15. Native synchronized English dialogue and location ambience only. No music. End on an ensemble reaction suitable for a hard cut. Do not introduce extra people or on-screen text."
-      },
-      {
-        "id": "03_Professional_Hustler_shot_4",
+        "id": "03_Professional_Hustler_45s_shot_3",
         "duration": 15,
         "model": "video/minimax-h3-max-turbo",
         "resolution": "480P",
@@ -562,7 +433,7 @@
             "end_seconds": 13.2
           }
         ],
-        "prompt": "FOUR-DEEP original 2D adult sitcom. Animate the supplied exact first frame as ONE continuous 15-second vertical group shot. Preserve all four older Black men's exact faces, age, skin tones, gray hair, facial hair, body builds, hats, glasses and wardrobe. Player cream Panama green band, thin mustache, burgundy blazer cream shirt; Doc stocky backwards navy cap gray goatee cream-sleeved navy varsity jacket; Finesse black feathered fedora gray chin goatee pinstripe suit burgundy shirt gold rings; Download gray short curls rectangular glasses blue hoodie black tee smartphone. Bold black ink outlines, rich 2D cel shading, warm natural light. Keep all four faces visible. Genuine mouth animation, blinks, brows, small head turns and gestures, not a still zoom. Fixed camera, stable anatomy. Mature English voices: Player smooth mellow baritone, Doc gravelly bass with blunt Bay Area delivery, Finesse sly persuasive midrange, Download precise tenor. Only the active speaker moves his mouth. Exact uncensored quoted dialogue, no bleep, no overlapping speech, no narrator, captions, text, watermark or music.  Oakland corner store. Finesse foreground left, Download foreground right, Player upper left, Doc upper right. Episode 3, segment 4 of 4. Begin from supplied cast frame; preserve exact character placement and wardrobes. 0.5–2.8s Download says exactly \"I made you a website.\". 3.1–5.4s Finesse says exactly \"Now we're official.\". 5.7–8s Download says exactly \"It's a warning page.\". 8.3–10.6s Doc says exactly \"Put my fifty in the evidence section.\". 10.9–13.2s Player says exactly \"Congratulations. You finally got some exposure.\". Use natural comic pauses, expressive brows, small gestures and silent reactions from listeners. Hold a reaction beat to second 15. Native synchronized English dialogue and location ambience only. No music. End on an ensemble reaction suitable for a hard cut. Do not introduce extra people or on-screen text."
+        "prompt": "FOUR-DEEP original 2D adult sitcom. Animate the supplied exact first frame as ONE continuous 15-second vertical group shot. Preserve all four older Black men's exact faces, age, skin tones, gray hair, facial hair, body builds, hats, glasses and wardrobe. Player cream Panama green band, thin mustache, burgundy blazer cream shirt; Doc stocky backwards navy cap gray goatee cream-sleeved navy varsity jacket; Finesse black feathered fedora gray chin goatee pinstripe suit burgundy shirt gold rings; Download gray short curls rectangular glasses blue hoodie black tee smartphone. Bold black ink outlines, rich 2D cel shading, warm natural light. Keep all four faces visible. Genuine mouth animation, blinks, brows, small head turns and gestures, not a still zoom. Fixed camera, stable anatomy. Mature English voices: Player smooth mellow baritone, Doc gravelly bass with blunt Bay Area delivery, Finesse sly persuasive midrange, Download precise tenor. Only the active speaker moves his mouth. Exact uncensored quoted dialogue, no bleep, no overlapping speech, no narrator, captions, text, watermark or music.  Oakland corner store. Finesse foreground left, Download foreground right, Player upper left, Doc upper right. Episode 3, segment 3 of 3. Begin from supplied cast frame; preserve exact character placement and wardrobes. 0.5–2.8s Download says exactly \"I made you a website.\". 3.1–5.4s Finesse says exactly \"Now we're official.\". 5.7–8s Download says exactly \"It's a warning page.\". 8.3–10.6s Doc says exactly \"Put my fifty in the evidence section.\". 10.9–13.2s Player says exactly \"Congratulations. You finally got some exposure.\". Use natural comic pauses, expressive brows, small gestures and silent reactions from listeners. Hold a reaction beat to second 15. Native synchronized English dialogue and location ambience only. No music. End on an ensemble reaction suitable for a hard cut. Do not introduce extra people or on-screen text."
       }
     ]
   },
@@ -574,25 +445,24 @@
     "caption": "Player still has game. Doc brought the reality check. Who's the Player in your friend group?",
     "hashtags": "#FourDeep #BayAreaComedy #DatingHumor #AdultAnimation #OaklandComedy",
     "model": "video/minimax-h3-max-turbo",
-    "duration": 60,
+    "duration": 45,
     "resolution": "480P",
     "aspect_ratio": "9:16",
-    "estimated_credits": 300,
-    "status": "Expanded to 60 seconds; not rendered. Supersedes previous 10-second approval request. Batch estimate 1200 generation credits versus checked balance 1098; editing/assembly excluded.",
+    "estimated_credits": 225,
+    "status": "45-second revision prepared; not rendered. Supersedes 10- and 60-second requests. Batch generation estimate 900 credits; editing/assembly excluded.",
     "assembly": {
-      "target_duration_seconds": 60,
+      "target_duration_seconds": 45,
       "order": [
         1,
         2,
-        3,
-        4
+        3
       ],
       "keep_native_dialogue": true,
       "trim_each_segment_seconds": 15
     },
     "shots": [
       {
-        "id": "04_Dating_at_66_shot_1",
+        "id": "04_Dating_at_66_45s_shot_1",
         "duration": 15,
         "model": "video/minimax-h3-max-turbo",
         "resolution": "480P",
@@ -623,10 +493,10 @@
             "end_seconds": 13.2
           }
         ],
-        "prompt": "FOUR-DEEP original 2D adult sitcom. Animate the supplied exact first frame as ONE continuous 15-second vertical group shot. Preserve all four older Black men's exact faces, age, skin tones, gray hair, facial hair, body builds, hats, glasses and wardrobe. Player cream Panama green band, thin mustache, burgundy blazer cream shirt; Doc stocky backwards navy cap gray goatee cream-sleeved navy varsity jacket; Finesse black feathered fedora gray chin goatee pinstripe suit burgundy shirt gold rings; Download gray short curls rectangular glasses blue hoodie black tee smartphone. Bold black ink outlines, rich 2D cel shading, warm natural light. Keep all four faces visible. Genuine mouth animation, blinks, brows, small head turns and gestures, not a still zoom. Fixed camera, stable anatomy. Mature English voices: Player smooth mellow baritone, Doc gravelly bass with blunt Bay Area delivery, Finesse sly persuasive midrange, Download precise tenor. Only the active speaker moves his mouth. Exact uncensored quoted dialogue, no bleep, no overlapping speech, no narrator, captions, text, watermark or music.  Living room. Player lower left, Doc upper left, Finesse upper right, Download lower right. Episode 4, segment 1 of 4. Begin from supplied cast frame; preserve exact character placement and wardrobes. 0.5–4.5s Player says exactly \"She said she wants a man with stability.\". 4.8–8.9s Doc says exactly \"On mommas, start by standing up without making noises.\". 9.2–13.2s Player says exactly \"That's wisdom leaving the joints.\". Use natural comic pauses, expressive brows, small gestures and silent reactions from listeners. Hold a reaction beat to second 15. Native synchronized English dialogue and location ambience only. No music. End on an ensemble reaction suitable for a hard cut. Do not introduce extra people or on-screen text."
+        "prompt": "FOUR-DEEP original 2D adult sitcom. Animate the supplied exact first frame as ONE continuous 15-second vertical group shot. Preserve all four older Black men's exact faces, age, skin tones, gray hair, facial hair, body builds, hats, glasses and wardrobe. Player cream Panama green band, thin mustache, burgundy blazer cream shirt; Doc stocky backwards navy cap gray goatee cream-sleeved navy varsity jacket; Finesse black feathered fedora gray chin goatee pinstripe suit burgundy shirt gold rings; Download gray short curls rectangular glasses blue hoodie black tee smartphone. Bold black ink outlines, rich 2D cel shading, warm natural light. Keep all four faces visible. Genuine mouth animation, blinks, brows, small head turns and gestures, not a still zoom. Fixed camera, stable anatomy. Mature English voices: Player smooth mellow baritone, Doc gravelly bass with blunt Bay Area delivery, Finesse sly persuasive midrange, Download precise tenor. Only the active speaker moves his mouth. Exact uncensored quoted dialogue, no bleep, no overlapping speech, no narrator, captions, text, watermark or music.  Living room. Player lower left, Doc upper left, Finesse upper right, Download lower right. Episode 4, segment 1 of 3. Begin from supplied cast frame; preserve exact character placement and wardrobes. 0.5–4.5s Player says exactly \"She said she wants a man with stability.\". 4.8–8.9s Doc says exactly \"On mommas, start by standing up without making noises.\". 9.2–13.2s Player says exactly \"That's wisdom leaving the joints.\". Use natural comic pauses, expressive brows, small gestures and silent reactions from listeners. Hold a reaction beat to second 15. Native synchronized English dialogue and location ambience only. No music. End on an ensemble reaction suitable for a hard cut. Do not introduce extra people or on-screen text."
       },
       {
-        "id": "04_Dating_at_66_shot_2",
+        "id": "04_Dating_at_66_45s_shot_2",
         "duration": 15,
         "model": "video/minimax-h3-max-turbo",
         "resolution": "480P",
@@ -663,56 +533,10 @@
             "end_seconds": 13.2
           }
         ],
-        "prompt": "FOUR-DEEP original 2D adult sitcom. Animate the supplied exact first frame as ONE continuous 15-second vertical group shot. Preserve all four older Black men's exact faces, age, skin tones, gray hair, facial hair, body builds, hats, glasses and wardrobe. Player cream Panama green band, thin mustache, burgundy blazer cream shirt; Doc stocky backwards navy cap gray goatee cream-sleeved navy varsity jacket; Finesse black feathered fedora gray chin goatee pinstripe suit burgundy shirt gold rings; Download gray short curls rectangular glasses blue hoodie black tee smartphone. Bold black ink outlines, rich 2D cel shading, warm natural light. Keep all four faces visible. Genuine mouth animation, blinks, brows, small head turns and gestures, not a still zoom. Fixed camera, stable anatomy. Mature English voices: Player smooth mellow baritone, Doc gravelly bass with blunt Bay Area delivery, Finesse sly persuasive midrange, Download precise tenor. Only the active speaker moves his mouth. Exact uncensored quoted dialogue, no bleep, no overlapping speech, no narrator, captions, text, watermark or music.  Living room. Player lower left, Doc upper left, Finesse upper right, Download lower right. Episode 4, segment 2 of 4. Begin from supplied cast frame; preserve exact character placement and wardrobes. 0.5–3.5s Finesse says exactly \"Tell her you own property.\". 3.8–6.7s Player says exactly \"I do. Two good suits and a cemetery plot.\". 7–9.9s Download says exactly \"Maybe lead with the suits.\". 10.3–13.2s Doc says exactly \"At least one investment paid off.\". Use natural comic pauses, expressive brows, small gestures and silent reactions from listeners. Hold a reaction beat to second 15. Native synchronized English dialogue and location ambience only. No music. End on an ensemble reaction suitable for a hard cut. Do not introduce extra people or on-screen text."
+        "prompt": "FOUR-DEEP original 2D adult sitcom. Animate the supplied exact first frame as ONE continuous 15-second vertical group shot. Preserve all four older Black men's exact faces, age, skin tones, gray hair, facial hair, body builds, hats, glasses and wardrobe. Player cream Panama green band, thin mustache, burgundy blazer cream shirt; Doc stocky backwards navy cap gray goatee cream-sleeved navy varsity jacket; Finesse black feathered fedora gray chin goatee pinstripe suit burgundy shirt gold rings; Download gray short curls rectangular glasses blue hoodie black tee smartphone. Bold black ink outlines, rich 2D cel shading, warm natural light. Keep all four faces visible. Genuine mouth animation, blinks, brows, small head turns and gestures, not a still zoom. Fixed camera, stable anatomy. Mature English voices: Player smooth mellow baritone, Doc gravelly bass with blunt Bay Area delivery, Finesse sly persuasive midrange, Download precise tenor. Only the active speaker moves his mouth. Exact uncensored quoted dialogue, no bleep, no overlapping speech, no narrator, captions, text, watermark or music.  Living room. Player lower left, Doc upper left, Finesse upper right, Download lower right. Episode 4, segment 2 of 3. Begin from supplied cast frame; preserve exact character placement and wardrobes. 0.5–3.5s Finesse says exactly \"Tell her you own property.\". 3.8–6.7s Player says exactly \"I do. Two good suits and a cemetery plot.\". 7–9.9s Download says exactly \"Maybe lead with the suits.\". 10.3–13.2s Doc says exactly \"At least one investment paid off.\". Use natural comic pauses, expressive brows, small gestures and silent reactions from listeners. Hold a reaction beat to second 15. Native synchronized English dialogue and location ambience only. No music. End on an ensemble reaction suitable for a hard cut. Do not introduce extra people or on-screen text."
       },
       {
-        "id": "04_Dating_at_66_shot_3",
-        "duration": 15,
-        "model": "video/minimax-h3-max-turbo",
-        "resolution": "480P",
-        "aspect_ratio": "9:16",
-        "image_url": "https://cdn.creativeclaw.co/u/595a4a51/images/e03ee26c-ae1b-4bca-a457-ba4b46d40efa.png",
-        "extras": {
-          "exact_duration": true
-        },
-        "estimated_credits": 75,
-        "status": "Prepared; not submitted",
-        "dialogue": [
-          {
-            "speaker": "Download",
-            "text": "Her profile says she likes long walks.",
-            "start_seconds": 0.5,
-            "end_seconds": 2.8
-          },
-          {
-            "speaker": "Player",
-            "text": "So do I.",
-            "start_seconds": 3.1,
-            "end_seconds": 5.4
-          },
-          {
-            "speaker": "Doc",
-            "text": "To the mailbox?",
-            "start_seconds": 5.7,
-            "end_seconds": 8
-          },
-          {
-            "speaker": "Player",
-            "text": "Distance ain't the point. It's about intention.",
-            "start_seconds": 8.3,
-            "end_seconds": 10.6
-          },
-          {
-            "speaker": "Finesse",
-            "text": "And convenient benches.",
-            "start_seconds": 10.9,
-            "end_seconds": 13.2
-          }
-        ],
-        "prompt": "FOUR-DEEP original 2D adult sitcom. Animate the supplied exact first frame as ONE continuous 15-second vertical group shot. Preserve all four older Black men's exact faces, age, skin tones, gray hair, facial hair, body builds, hats, glasses and wardrobe. Player cream Panama green band, thin mustache, burgundy blazer cream shirt; Doc stocky backwards navy cap gray goatee cream-sleeved navy varsity jacket; Finesse black feathered fedora gray chin goatee pinstripe suit burgundy shirt gold rings; Download gray short curls rectangular glasses blue hoodie black tee smartphone. Bold black ink outlines, rich 2D cel shading, warm natural light. Keep all four faces visible. Genuine mouth animation, blinks, brows, small head turns and gestures, not a still zoom. Fixed camera, stable anatomy. Mature English voices: Player smooth mellow baritone, Doc gravelly bass with blunt Bay Area delivery, Finesse sly persuasive midrange, Download precise tenor. Only the active speaker moves his mouth. Exact uncensored quoted dialogue, no bleep, no overlapping speech, no narrator, captions, text, watermark or music.  Living room. Player lower left, Doc upper left, Finesse upper right, Download lower right. Episode 4, segment 3 of 4. Begin from supplied cast frame; preserve exact character placement and wardrobes. 0.5–2.8s Download says exactly \"Her profile says she likes long walks.\". 3.1–5.4s Player says exactly \"So do I.\". 5.7–8s Doc says exactly \"To the mailbox?\". 8.3–10.6s Player says exactly \"Distance ain't the point. It's about intention.\". 10.9–13.2s Finesse says exactly \"And convenient benches.\". Use natural comic pauses, expressive brows, small gestures and silent reactions from listeners. Hold a reaction beat to second 15. Native synchronized English dialogue and location ambience only. No music. End on an ensemble reaction suitable for a hard cut. Do not introduce extra people or on-screen text."
-      },
-      {
-        "id": "04_Dating_at_66_shot_4",
+        "id": "04_Dating_at_66_45s_shot_3",
         "duration": 15,
         "model": "video/minimax-h3-max-turbo",
         "resolution": "480P",
@@ -755,7 +579,7 @@
             "end_seconds": 13.2
           }
         ],
-        "prompt": "FOUR-DEEP original 2D adult sitcom. Animate the supplied exact first frame as ONE continuous 15-second vertical group shot. Preserve all four older Black men's exact faces, age, skin tones, gray hair, facial hair, body builds, hats, glasses and wardrobe. Player cream Panama green band, thin mustache, burgundy blazer cream shirt; Doc stocky backwards navy cap gray goatee cream-sleeved navy varsity jacket; Finesse black feathered fedora gray chin goatee pinstripe suit burgundy shirt gold rings; Download gray short curls rectangular glasses blue hoodie black tee smartphone. Bold black ink outlines, rich 2D cel shading, warm natural light. Keep all four faces visible. Genuine mouth animation, blinks, brows, small head turns and gestures, not a still zoom. Fixed camera, stable anatomy. Mature English voices: Player smooth mellow baritone, Doc gravelly bass with blunt Bay Area delivery, Finesse sly persuasive midrange, Download precise tenor. Only the active speaker moves his mouth. Exact uncensored quoted dialogue, no bleep, no overlapping speech, no narrator, captions, text, watermark or music.  Living room. Player lower left, Doc upper left, Finesse upper right, Download lower right. Episode 4, segment 4 of 4. Begin from supplied cast frame; preserve exact character placement and wardrobes. 0.5–2.8s Player says exactly \"She texted, 'Can you come over?'\". 3.1–5.4s Finesse says exactly \"There it is. Still got game.\". 5.7–8s Player says exactly \"She needs help resetting her router.\". 8.3–10.6s Doc says exactly \"Download, your girl calling.\". 10.9–13.2s Download says exactly \"Finally. Somebody appreciates a stable connection.\". Use natural comic pauses, expressive brows, small gestures and silent reactions from listeners. Hold a reaction beat to second 15. Native synchronized English dialogue and location ambience only. No music. End on an ensemble reaction suitable for a hard cut. Do not introduce extra people or on-screen text."
+        "prompt": "FOUR-DEEP original 2D adult sitcom. Animate the supplied exact first frame as ONE continuous 15-second vertical group shot. Preserve all four older Black men's exact faces, age, skin tones, gray hair, facial hair, body builds, hats, glasses and wardrobe. Player cream Panama green band, thin mustache, burgundy blazer cream shirt; Doc stocky backwards navy cap gray goatee cream-sleeved navy varsity jacket; Finesse black feathered fedora gray chin goatee pinstripe suit burgundy shirt gold rings; Download gray short curls rectangular glasses blue hoodie black tee smartphone. Bold black ink outlines, rich 2D cel shading, warm natural light. Keep all four faces visible. Genuine mouth animation, blinks, brows, small head turns and gestures, not a still zoom. Fixed camera, stable anatomy. Mature English voices: Player smooth mellow baritone, Doc gravelly bass with blunt Bay Area delivery, Finesse sly persuasive midrange, Download precise tenor. Only the active speaker moves his mouth. Exact uncensored quoted dialogue, no bleep, no overlapping speech, no narrator, captions, text, watermark or music.  Living room. Player lower left, Doc upper left, Finesse upper right, Download lower right. Episode 4, segment 3 of 3. Begin from supplied cast frame; preserve exact character placement and wardrobes. 0.5–2.8s Player says exactly \"She texted, 'Can you come over?'\". 3.1–5.4s Finesse says exactly \"There it is. Still got game.\". 5.7–8s Player says exactly \"She needs help resetting her router.\". 8.3–10.6s Doc says exactly \"Download, your girl calling.\". 10.9–13.2s Download says exactly \"Finally. Somebody appreciates a stable connection.\". Use natural comic pauses, expressive brows, small gestures and silent reactions from listeners. Hold a reaction beat to second 15. Native synchronized English dialogue and location ambience only. No music. End on an ensemble reaction suitable for a hard cut. Do not introduce extra people or on-screen text."
       }
     ]
   }
