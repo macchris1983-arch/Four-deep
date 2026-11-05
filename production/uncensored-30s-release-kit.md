@@ -1,8 +1,8 @@
 # Four-deep — four-video uncensored release kit
 
-Status: Captioned renders completed. Pending playback review and Christopher's publishing approval. No posts have been published or scheduled by this package.
+Status: Caption cleanup renders completed. Original frame sequences and aligned transcripts reviewed; technical decode and framing checks are recorded below. Remaining animation/speaker mismatches need a separate generative repair. Pending Christopher's publishing approval. No posts have been published or scheduled.
 
-These versions contain the opening and closing scenes of each approved rewrite, approximately 30 seconds each. They do not contain the middle scenes from the earlier 45-second plan. The older mild-dialogue renders are superseded for this release.
+These versions contain the opening and closing scenes of each approved rewrite, 27–30 seconds each after cleanup. They do not contain the middle scenes from the earlier 45-second plan. The older mild-dialogue renders are superseded for this release.
 
 ## 1. Smart House
 
@@ -16,7 +16,7 @@ What's the FIRST appliance you'd make pay rent?
 
 Hashtags: #FourDeep #AnimatedComedy #AdultAnimation #OaklandComedy #RoommateComedy
 
-Captioned MP4: https://cdn.creativeclaw.co/u/595a4a51/videos/ef6ced81-3c11-4357-917b-50e9aff02986.mp4
+Captioned MP4: https://cdn.creativeclaw.co/u/595a4a51/video-edl/b23a4fef-c9c3-4b4d-958a-0a8b5239328f/output.mp4
 
 Uncaptioned master: https://cdn.creativeclaw.co/u/595a4a51/videos/f3dfdfb6-2861-4455-9be5-3508461fc6e6.mp4
 
@@ -34,13 +34,13 @@ What's the wildest excuse you've heard for missing rent?
 
 Hashtags: #FourDeep #AnimatedComedy #RentProblems #RoommateComedy #OaklandComedy
 
-Captioned MP4: https://cdn.creativeclaw.co/u/595a4a51/videos/9f5b7cb1-a5f2-4642-a716-a2e4ff4d6b36.mp4
+Captioned MP4: https://cdn.creativeclaw.co/u/595a4a51/video-edl/03430be1-c2ef-403f-be70-07b96f9248dc/output.mp4
 
 Uncaptioned master: https://cdn.creativeclaw.co/u/595a4a51/videos/d4d9ca08-feef-4043-bae8-d658b80b7d04.mp4
 
 Cover text: RENT MONEY “IN TRANSIT”
 
-Transcript review note: Auto-transcription includes “Yeah, thought that” between the death excuse and funeral joke. Compare with actual audio before deciding whether it is a transcription error or generated extra speech.
+Cleanup: Removed source interval 22.45–23.96 seconds containing the extra transcribed aside “Yeah, thought that.” Rebuilt captions from original aligned words. Output duration about 28.5 seconds.
 
 ## 3. Professional Hustler
 
@@ -54,13 +54,13 @@ Which friend is always pitching you a business?
 
 Hashtags: #FourDeep #AnimatedComedy #AdultAnimation #HustlerComedy #RoommateComedy
 
-Captioned MP4: https://cdn.creativeclaw.co/u/595a4a51/videos/73a6428e-abec-4b1a-a20d-dab504cd7a2b.mp4
+Captioned MP4: https://cdn.creativeclaw.co/u/595a4a51/video-edl/34efcddb-bdf1-4b5d-afc7-9837d69b2e9c/output.mp4
 
 Uncaptioned master: https://cdn.creativeclaw.co/u/595a4a51/videos/21bcb90c-3346-40e2-a9a0-31357ca1f8fc.mp4
 
 Cover text: CEO OF GETTING REPORTED
 
-Duration: assembly metadata reports 30.083 seconds.
+Cleanup: Trimmed 0.083 seconds of excess tail; output duration 30 seconds. Caption spelling normalized to “On mommas.”
 
 ## 4. Dating at 66
 
@@ -74,21 +74,21 @@ Worst dating misunderstanding you've ever had?
 
 Hashtags: #FourDeep #AnimatedComedy #DatingComedy #AdultAnimation #OaklandComedy
 
-Captioned MP4 — CORRECTION REQUIRED: https://cdn.creativeclaw.co/u/595a4a51/videos/30d56132-01a0-466e-9d61-88592016d136.mp4
+Captioned MP4 — cleaned: https://cdn.creativeclaw.co/u/595a4a51/video-edl/64bb5aea-fd2c-47ab-a912-ec8166add358/output.mp4
 
 Uncaptioned master: https://cdn.creativeclaw.co/u/595a4a51/videos/63b3501c-eb22-4689-b150-23e29c582d6d.mp4
 
 Cover text: CATFISHED BY AN EMPTY HOUSE
 
-Known caption issue: The automatic transcript inserted “Download at principal.com.” This was not in the approved script. Review the actual audio; use the caption result's Text tab to correct the caption at no charge. Do not treat this captioned render as ready to publish until corrected.
+Cleanup: Removed source interval 2.60–5.25 seconds containing the unrequested transcribed website phrase. Its audio, video and captions are removed together, with a 30ms boundary fade. Output duration about 27.334 seconds. All intended jokes remain.
 
-Caption result job: 4d94183d-442f-48c9-819b-9234e75e0d05
+Cleanup job: 64bb5aea-fd2c-47ab-a912-ec8166add358
 
 ## Upload sequence and review
 
 1. Download each captioned MP4 above. Keep the uncaptioned masters for future edits.
 2. Play every video fully. Check who speaks, profanity transcription, subtitle legibility, the cut near 15 seconds, and the final punchline.
-3. Correct Dating at 66's known caption issue in the Creative Claw result's Text tab. Check Rent in Transit's extra transcribed phrase against its audio.
+3. Use only the cleaned links above; earlier captioned renders are superseded. Review the remaining speaker-animation mismatches before publishing.
 4. Upload one episode at a time to the intended channel and paste its title, caption and relevant hashtags. Use the cover text only when preparing a cover; it is not already burned into the video.
 5. Review the platform's audience and AI-content questions and answer truthfully. These episodes are adult comedy.
 6. Show the upload preview to Christopher for approval before publishing or scheduling.
@@ -101,8 +101,20 @@ Four uncensored opening clips: 300 credits.
 Four uncensored closing clips: 300 credits.
 Four assembly jobs: 8 credits.
 Four caption jobs: 13 credits.
-Total for this uncensored batch: 621 credits.
-Last verified remaining balance after captions: 27 credits.
+Caption cleanup edits: 8 credits.
+Total for this uncensored batch including cleanup: 629 credits.
+Last tool-reported remaining balance: 19 credits.
 Older renders and earlier credit purchases are excluded from this batch total.
 
-Caption style requested: punchy comedic subtitles with entrance animation. Returned subtitle metadata identifies the actual preset as Clean with white text, yellow active-word highlighting and bottom placement. Animation has not been independently verified in playback.
+Current captions: three-word karaoke groups using the original word-level timing, rebuilt on uncaptioned masters. No old captions are underneath.
+
+## Review limits and remaining defects
+
+Reviewed sampled frames across all four originals, actual aligned transcripts, output dimensions and edit ranges. Direct listening was unavailable; do not describe this as a complete audiovisual playback review. All four preserve the cast composition, but some lines animate the wrong character's mouth. For example, Smart House's second-half house-status line shows Doc moving while Download should deliver it. Ordinary cuts and captions do not correct that underlying animation. A targeted regeneration would require a separate authorized generation and enough credits; none was submitted during cleanup.
+
+The cuts in Rent in Transit and Dating at 66 remove both the unwanted caption text and its corresponding source audio/video interval. This is an editorial cut based on transcript timing, not proof that every transcription word was audible.
+
+
+## Completed cleanup checks
+
+All four cleaned MP4s decoded fully without FFmpeg errors. Each is 480×832 at 24 fps and has an AAC audio stream. Audio/video durations agree within 1ms. Final durations: Smart House 30.000s; Rent in Transit 28.500s; Professional Hustler 30.000s; Dating at 66 27.333s. Inspected generated contact sheets including frames on both sides of the two new cuts. Full direct listening remains unverified. Original masters are retained.
